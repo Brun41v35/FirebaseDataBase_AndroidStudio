@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "981643006117",
+    "firebase_url": "https://bancodedados-d82a4.firebaseio.com",
+    "project_id": "bancodedados-d82a4",
+    "storage_bucket": "bancodedados-d82a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981643006117:android:1d2e0e228fec17cd533d4c",
+        "android_client_info": {
+          "package_name": "com.example.firebasebanco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981643006117-ol14ume09fcmd20e9ihr2gi9o4l264go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3_CBjvg0lBDhzF-X48oD4HGc56JTCOd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981643006117-ol14ume09fcmd20e9ihr2gi9o4l264go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
